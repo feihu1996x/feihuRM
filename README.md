@@ -9,3 +9,7 @@
 ![movies](http://www.feihu1996.cn/demo/movies.png)
 
 ![movies-detail](http://www.feihu1996.cn/demo/movies-detail.png)
+
+## 运行项目
+
+请下载[微信开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)运行此项目
